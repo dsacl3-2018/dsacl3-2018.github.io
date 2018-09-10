@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Home
 ---
-
-### Introduction
 
 This programming course provides an introduction to algorithms and data
 structures that are commonly used in computational linguistics, such as
