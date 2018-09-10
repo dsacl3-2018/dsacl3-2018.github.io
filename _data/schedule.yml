@@ -1,0 +1,103 @@
+- week: "01"
+  dates:
+    Oct 15:
+    Oct 17:
+      topic: Introduction
+      reading: TBD
+      links:
+        slides: slides/introduction.pdf
+- week: "02"
+  dates:
+    Oct 22:
+      topic: TBD
+    Oct 24:
+      topic: TBD
+- week: "03"
+  dates:
+    Oct 29:
+      topic: TBD
+    Oct 31:
+      topic: TBD
+- week: "04"
+  dates:
+    Nov 05:
+      topic: TBD
+    Nov 07:
+      topic: TBD
+- week: "05"
+  dates:
+    Nov 12:
+      topic: TBD
+    Nov 14:
+      topic: TBD
+- week: "06"
+  dates:
+    Nov 19:
+      topic: TBD
+    Nov 21:
+      topic: TBD
+- week: "07"
+  dates:
+    Nov 26:
+      topic: TBD
+    Nov 28:
+      topic: TBD
+- week: "08"
+  dates:
+    Dec 03:
+      topic: TBD
+    Dec 05:
+      topic: TBD
+- week: "09"
+  dates:
+    Dec 10:
+      topic: TBD
+    Dec 12:
+      topic: TBD
+- week: "10"
+  dates:
+    Dec 17:
+      topic: TBD
+    Dec 19:
+      topic: TBD
+- week: "Sem. break"
+  dates:
+    " ": ""
+    "  ": ""
+- week: "11"
+  dates:
+    Jun 25:
+      topic: TBD
+    Jun 27:
+      topic: TBD
+- week: "12"
+  dates:
+    Jan 07:
+      topic: TBD
+    Jan 09:
+      topic: TBD
+- week: "13"
+  dates:
+    Jan 14:
+      topic: TBD
+    Jan 16:
+      topic: TBD
+- week: "14"
+  dates:
+    Jan 21:
+      topic: TBD
+    Jan 23:
+      topic: TBD
+- week: "15"
+  dates:
+    Jan 28:
+      topic: TBD
+    Jan 30:
+      topic: TBD
+- week: "16"
+  dates:
+    Feb 04:
+      topic: TBD
+    Feb 06:
+      topic: TBD
+- week: ""
