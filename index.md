@@ -15,8 +15,10 @@ structures in small, but practical, applications.
 | Lectures      | Monday 12:15-13:45, Monday 18:00-19:30, 0.01|
 | Computer lab  | Wednesday 14:15-18:00, 0.01|
 | First Lecture | October 22|
-| Lecturers     | Claus Zinn [\<claus.zinn@uni-tuebingen.de\>](mailto:aus.zinn@uni-tuebingen.de),<br/> Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de)|
-| Tutors        |Marko Lozajic [\<marko.lozajic@student.uni-tuebingen.de\>](mailto:marko.lozajic@student.uni-tuebingen.de),<br/> Michael Watkins [\<michael.watkins@student.uni-tuebingen.de\>](mailto:michael.watkins@student.uni-tuebingen.de)|
+| Lecturers     | Claus Zinn [\<claus.zinn@uni-tuebingen.de\>](mailto:claus.zinn@uni-tuebingen.de) |
+|               | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de)|
+| Tutors        | Marko Lozajic [\<marko.lozajic@student.uni-tuebingen.de\>](mailto:marko.lozajic@student.uni-tuebingen.de) |
+|               | Michael Watkins [\<michael.watkins@student.uni-tuebingen.de\>](mailto:michael.watkins@student.uni-tuebingen.de)|
 {: .table }
 
 ### Goals
