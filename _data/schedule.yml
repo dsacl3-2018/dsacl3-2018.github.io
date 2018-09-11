@@ -1,103 +1,97 @@
 - week: "01"
   dates:
-    Oct 15:
-    Oct 17:
+    Oct 22, a:
+    Oct 22, b:
       topic: Introduction
       reading: TBA
       links:
         slides: slides/introduction.pdf
 - week: "02"
   dates:
-    Oct 22:
+    Oct 29, a:
       topic: TBA
-    Oct 24:
+    Oct 29, b:
       topic: TBA
 - week: "03"
   dates:
-    Oct 29:
+    Nov 05, a:
       topic: TBA
-    Oct 31:
+    Nov 05, b:
       topic: TBA
 - week: "04"
   dates:
-    Nov 05:
+    Nov 12, a:
       topic: TBA
-    Nov 07:
+    Nov 12, b:
       topic: TBA
 - week: "05"
   dates:
-    Nov 12:
+    Nov 19, a:
       topic: TBA
-    Nov 14:
+    Nov 19, b:
       topic: TBA
 - week: "06"
   dates:
-    Nov 19:
+    Nov 26, a:
       topic: TBA
-    Nov 21:
+    Nov 26, b:
       topic: TBA
 - week: "07"
   dates:
-    Nov 26:
+    Dec 03, a:
       topic: TBA
-    Nov 28:
+    Dec 03, b:
       topic: TBA
 - week: "08"
   dates:
-    Dec 03:
+    Dec 10, a:
       topic: TBA
-    Dec 05:
+    Dec 10, b:
       topic: TBA
 - week: "09"
   dates:
-    Dec 10:
+    Dec 17, a:
       topic: TBA
-    Dec 12:
-      topic: TBA
-- week: "10"
-  dates:
-    Dec 17:
-      topic: TBA
-    Dec 19:
+    Dec 17, b:
       topic: TBA
 - week: "Sem. break"
   dates:
     " ": ""
     "  ": ""
+- week: "10"
+  dates:
+    Jan 7, a:
+      topic: TBA
+    Jan 7, b:
+      topic: TBA
 - week: "11"
   dates:
-    Jun 25:
+    Jan 14, a:
       topic: TBA
-    Jun 27:
+    Jan 14, b:
       topic: TBA
 - week: "12"
   dates:
-    Jan 07:
+    Jan 21, a:
       topic: TBA
-    Jan 09:
+    Jan 21, b:
       topic: TBA
 - week: "13"
   dates:
-    Jan 14:
+    Jan 28, a:
       topic: TBA
-    Jan 16:
+    Jan 28, b:
       topic: TBA
 - week: "14"
   dates:
-    Jan 21:
+    Feb 04, a:
       topic: TBA
-    Jan 23:
+    Feb 04, b:
       topic: TBA
 - week: "15"
   dates:
-    Jan 28:
+    Feb 11, a:
       topic: TBA
-    Jan 30:
-      topic: TBA
-- week: "16"
-  dates:
-    Feb 04:
-      topic: TBA
-    Feb 06:
+    Feb 11, b:
       topic: TBA
 - week: ""
