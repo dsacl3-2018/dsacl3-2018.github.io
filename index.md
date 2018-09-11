@@ -13,7 +13,7 @@ structures in small, but practical, applications.
 ### Practical information
 
 | Lectures      | Monday 12:15-13:45, Monday 18:00-19:30, 0.01 |
-| ---           | --- |
+| :---          | :--- |
 | Computer lab  | Wednesday 14:15-18:00, 0.01 |
 | First Lecture | October 22 |
 | Lecturers     | Claus Zinn [\<claus.zinn@uni-tuebingen.de\>](mailto:claus.zinn@uni-tuebingen.de) |
