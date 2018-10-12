@@ -41,3 +41,5 @@ By the end of the course you will be able to:
 * Dependency Parsing, Sandra Kübler, Ryan McDonald & Joakim Nivre
 * Speech and Language Processing, 2nd edition, Dan Jurafsky & James
   H. Martin
+  (Draft [chapters from the third edition](http://web.stanford.edu/~jurafsky/slp3/)
+  are available online)
