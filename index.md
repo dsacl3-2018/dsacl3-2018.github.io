@@ -23,7 +23,7 @@ structures in small, but practical, applications.
 
 ### Goals
 
-By the end of the course you can:
+By the end of the course you will be able to:
 
   * Write programs to query directed and undirected graphs, such as:
     - Are two vertices connected?

@@ -1,97 +1,139 @@
 - week: "01"
   dates:
-    Oct 22, a:
-    Oct 22, b:
-      topic: Introduction
-      reading: TBA
-      links:
-        slides: slides/introduction.pdf
+    Oct 22:
+      topics:
+        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/intro.pdf">Introduction</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/14AnalysisOfAlgorithms.pdf">Complexity theory</a>
+    Oct 24:
+      topics:
+        lab: Language Guessing
 - week: "02"
   dates:
-    Oct 29, a:
-      topic: TBA
-    Oct 29, b:
-      topic: TBA
+    Oct 29:
+      topics:
+        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/21ElementarySorts.pdf">Elemenary sorts</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf.pdf">Quicksort</a>
+    Nov 1:
 - week: "03"
   dates:
-    Nov 05, a:
-      topic: TBA
-    Nov 05, b:
-      topic: TBA
+    Nov 05:
+      topics:
+        A: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
+    Nov 07:
+      topics:
+        lab: Sorting
 - week: "04"
   dates:
-    Nov 12, a:
-      topic: TBA
-    Nov 12, b:
-      topic: TBA
+    Nov 12:
+      topics:
+        A: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+    Nov 14:
+      topics:
+        lab: Undirected graphs
 - week: "05"
   dates:
-    Nov 19, a:
-      topic: TBA
-    Nov 19, b:
-      topic: TBA
+    Nov 19:
+      topics:
+        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>
+    Nov 21:
+      topics:
+      topics:
+        lab: Directed graphs
 - week: "06"
   dates:
-    Nov 26, a:
-      topic: TBA
-    Nov 26, b:
-      topic: TBA
+    Nov 26:
+      topics:
+        A: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>
+        B: Exam practice
+    Nov 28:
+      topics:
+        lab: Burkhard-Keller trees
 - week: "07"
   dates:
-    Dec 03, a:
-      topic: TBA
-    Dec 03, b:
-      topic: TBA
+    Dec 03:
+      topics:
+        A: Formal languages and automata 
+        B:  Formal languages and automata 
+    Dec 05:
+      topics:
+        lab: TBA
 - week: "08"
   dates:
-    Dec 10, a:
-      topic: TBA
-    Dec 10, b:
-      topic: TBA
+    Dec 10:
+      topics:
+        A: Regular grammars and finite state automata
+        B: Regular grammars and finite state automata
+    Dec 12:
+      topics:
+        lab: TBA
 - week: "09"
   dates:
-    Dec 17, a:
-      topic: TBA
-    Dec 17, b:
-      topic: TBA
+    Dec 17:
+      topics:
+        A: Finite-state transducers
+        B: Finite-state transducers and computational morphology 
+    Dec 19:
+      topics:
+        lab: TBA
 - week: "Sem. break"
   dates:
     " ": ""
     "  ": ""
 - week: "10"
   dates:
-    Jan 7, a:
-      topic: TBA
-    Jan 7, b:
-      topic: TBA
+    Jan 7:
+      topics:
+        A: Context-free languages and constituency parsing
+        B: Context-free languages and constituency parsing
+    Jan 9:
+      topics:
+        lab: TBA
 - week: "11"
   dates:
-    Jan 14, a:
-      topic: TBA
-    Jan 14, b:
-      topic: TBA
+    Jan 14:
+      topics:
+        A: Dependency grammars and treebanks
+        B: Dependency grammars and treebanks
+    Jan 16:
+      topics:
+        lab: TBA
 - week: "12"
   dates:
-    Jan 21, a:
-      topic: TBA
-    Jan 21, b:
-      topic: TBA
+    Jan 21:
+      topics:
+        A: Dependency parsing
+        B: Dependency parsing
+    Jan 23:
+      topics:
+        lab: TBA
 - week: "13"
   dates:
-    Jan 28, a:
-      topic: TBA
-    Jan 28, b:
-      topic: TBA
+    Jan 28:
+      topics:
+        A: A gentle introduction to classification
+        B: Transition-based dependency parsing
+    Jan 30:
+      topics:
+        lab: TBA
 - week: "14"
   dates:
-    Feb 04, a:
-      topic: TBA
-    Feb 04, b:
-      topic: TBA
+    Feb 04:
+      topics:
+        A: Exam review / practice
+        B: Exam review / practice
+    Feb 06:
+      topics:
+        lab: TBA
 - week: "15"
   dates:
-    Feb 11, a:
-      topic: TBA
-    Feb 11, b:
-      topic: TBA
+    Feb 11:
+      topics:
+        A: Exam
+        B: ""
+    Feb 13:
+      topics:
+        lab: TBA
 - week: ""

@@ -5,6 +5,12 @@ title: Schedule & Material
 
 ## Lecture schedule (tentative)
 
+The course plan is subject to change.
+The slides of future classes are linked
+to the slides from the [last year's course](http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/).
+'A' below indicates the noon session starting at 12:15,
+and 'B' indicates the evening sessions starting at 18:00.
+
 <table rules="groups" style="width:100%;border-collapse: collapse;">
   <thead style="border-bottom: 1px solid #000;">
     <tr>
@@ -19,8 +25,10 @@ title: Schedule & Material
     <td style="text-align:left;"> {{ week.week }} </td>
     {% for date in week.dates %}
             <td valign="top"> {{ date[0] }} <br/>
-                {% if date[1].topic %}
-                    {{ date[1].topic }}&nbsp;
+                {% if date[1].topics %}
+                    {% for topic in date[1].topics %}
+                        {{ topic[0] }}: <em> {{ topic[1] }}</em>{% unless forloop.last %}<br/> {% endunless %}
+                    {% endfor %}
                 {% else %}
                     <em style="color: red">No class</em>
                 {% endif %}
