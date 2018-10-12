@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
+## Introduction
+
+This the web page of the course
+*Data Structures and Algorithms for Computational Lingustics III*
+taught at the
+[Department of Computational Linguistics](http://www.sfs.uni-tuebingen.de/ascl.html),
+[University of Tübingen](https://uni-tuebingen.de/).
+
+
 This programming course provides an introduction to algorithms and data
 structures that are commonly used in computational linguistics, such as
 string distance measures, data structures for approximate string search,
@@ -29,7 +38,7 @@ By the end of the course you will be able to:
     - Are two vertices connected?
     - What is the shortest path between two vertices?
     - Does a directed graph contain cycles?
-  * Implement a small spell-checker.
+  * Implement a spell-checker.
   * Implement a recognizer for finite state grammars.
   * Implement a simple dependency parser.
   * Implement parsing algorithms that are discussed in the *Computational
