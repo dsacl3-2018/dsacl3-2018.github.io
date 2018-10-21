@@ -3,7 +3,7 @@
     Oct 22:
       topics:
         A: <a href="slides/intro.pdf">Introduction</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/14AnalysisOfAlgorithms.pdf">Complexity theory</a>
+        B: <a href="slides/14AnalysisOfAlgorithms.pdf">Complexity theory</a>
     Oct 24:
       topics:
         lab: Language Guessing
