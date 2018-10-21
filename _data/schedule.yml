@@ -2,8 +2,8 @@
   dates:
     Oct 22:
       topics:
-        A: <a href="slides/intro.pdf">Introduction</a>
-        B: <a href="slides/14AnalysisOfAlgorithms.pdf">Complexity theory</a>
+        A: <a href="slides/intro.pdf">Introduction (*)</a>
+        B: <a href="slides/14AnalysisOfAlgorithms.pdf">Complexity theory (*)</a>
     Oct 24:
       topics:
         lab: Language Guessing
