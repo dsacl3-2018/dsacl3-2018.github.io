@@ -8,6 +8,7 @@ title: Schedule & Material
 The course plan is subject to change.
 The slides of future classes are linked
 to the slides from the [last year's course](http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/).
+<em>However, slides with a (*) have been updated.</em>
 'A' below indicates the noon session starting at 12:15,
 and 'B' indicates the evening sessions starting at 18:00.
 
