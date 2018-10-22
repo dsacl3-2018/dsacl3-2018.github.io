@@ -44,6 +44,12 @@ By the end of the course you will be able to:
   * Implement parsing algorithms that are discussed in the *Computational
     Linguistics: Parsing* course.
 
+### GitHub registration
+
+To register, and access to some of the course material,
+you need to complete an [introductory assignment](https://classroom.github.com/a/w5pfvfix).
+Please do this before Wednesday 24th.
+
 ### Literature
 
 * [Algorithms](http://algs4.cs.princeton.edu/home/), 4th Edition, Robert Sedgewick & Kevin Wayne
