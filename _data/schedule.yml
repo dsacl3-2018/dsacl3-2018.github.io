@@ -2,7 +2,7 @@
   dates:
     Oct 22:
       topics:
-        A: <a href="slides/intro.pdf">Introduction (*)</a>
+        A: <a href="slides/intro.pdf">Introduction (incl. Language Guessing) (*)</a>
         B: <a href="slides/14AnalysisOfAlgorithms.pdf">Complexity theory (*)</a>
     Oct 24:
       topics:
@@ -13,7 +13,9 @@
       topics:
         A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/21ElementarySorts.pdf">Elemenary sorts</a>
         B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf.pdf">Quicksort</a>
-    Nov 1:
+    Oct 31:
+      topics:
+        lab: Language Guessing (cont'd) plus (watch this space)   
 - week: "03"
   dates:
     Nov 05:

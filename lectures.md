@@ -3,6 +3,12 @@ layout: page
 title: Schedule & Material
 ---
 
+## Extra Reading Material
+
+<ul>
+<li><a href="material/CavnarTrenkle.pdf">Language Guessing (Cavnar and Trenkle, 1994)</a> </li>
+</ul>
+
 ## Lecture schedule (tentative)
 
 The course plan is subject to change.
