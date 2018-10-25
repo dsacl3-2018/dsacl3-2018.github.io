@@ -15,12 +15,12 @@
         B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf.pdf">Quicksort</a>
     Oct 31:
       topics:
-        lab: Language Guessing (cont'd) plus (watch this space)   
+        lab: Computational Complexity
 - week: "03"
   dates:
     Nov 05:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
+        A: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>      
         B: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
     Nov 07:
       topics:
@@ -29,30 +29,30 @@
   dates:
     Nov 12:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+        A: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
         B: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
     Nov 14:
       topics:
-        lab: Undirected graphs
+        lab: Graded Assignment
 - week: "05"
   dates:
     Nov 19:
       topics:
-        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>
+        A: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+        B: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
     Nov 21:
       topics:
       topics:
-        lab: Directed graphs
+        lab: Undirected graphs
 - week: "06"
   dates:
     Nov 26:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>
+        A: TBA.
         B: Exam practice
     Nov 28:
       topics:
-        lab: Burkhard-Keller trees
+        lab: Directed graphs
 - week: "07"
   dates:
     Dec 03:
