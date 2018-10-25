@@ -20,6 +20,7 @@ baseurl: ""
 url: "https://dsacl3-2018.github.io"
 github_username:  dsacl3-2018
 encoding: utf-8
+future: true
 
 # Build settings
 markdown: kramdown

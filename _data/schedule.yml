@@ -2,7 +2,7 @@
   dates:
     Oct 22:
       topics:
-        A: <a href="slides/intro.pdf">Introduction (incl. Language Guessing) (*)</a>
+        A: <a href="slides/00Intro.pdf">Introduction (incl. Language Guessing) (*)</a>
         B: <a href="slides/14AnalysisOfAlgorithms.pdf">Complexity theory (*)</a>
     Oct 24:
       topics:
