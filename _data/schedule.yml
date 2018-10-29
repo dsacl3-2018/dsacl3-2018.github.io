@@ -11,7 +11,7 @@
   dates:
     Oct 29:
       topics:
-        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/21ElementarySorts.pdf">Elemenary sorts</a>
+        A: <a href="slides/21ElementarySorts.pdf">Elemenary sorts (*)</a>
         B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf.pdf">Quicksort</a>
     Oct 31:
       topics:

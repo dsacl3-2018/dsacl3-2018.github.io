@@ -10,6 +10,7 @@ title: Schedule & Material
 <li><a href="slides/21DemoSelectionSort.pdf">Animation for Selection Sort</a> </li>
 <li><a href="slides/21DemoInsertionSort.pdf">Animation for Insertion Sort</a> </li>
 <li><a href="slides/21DemoShellSort.pdf">Animation for Shell Sort</a> </li>
+<li><a href="slides/21DemoKnuthShuffle.pdf">Animation for Knuth Shuffle</a> </li>
 </ul>
 
 ## Lecture schedule (tentative)
