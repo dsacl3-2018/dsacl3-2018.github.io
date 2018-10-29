@@ -3,10 +3,13 @@ layout: page
 title: Schedule & Material
 ---
 
-## Extra Reading Material
+## Extra Reading and Lecture Material
 
 <ul>
 <li><a href="material/CavnarTrenkle.pdf">Language Guessing (Cavnar and Trenkle, 1994)</a> </li>
+<li><a href="slides/21DemoSelectionSort.pdf">Animation for Selection Sort</a> </li>
+<li><a href="slides/21DemoInsertionSort.pdf">Animation for Insertion Sort</a> </li>
+<li><a href="slides/21DemoShellSort.pdf">Animation for Shell Sort</a> </li>
 </ul>
 
 ## Lecture schedule (tentative)
