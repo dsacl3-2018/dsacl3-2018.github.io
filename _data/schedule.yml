@@ -12,7 +12,7 @@
     Oct 29:
       topics:
         A: <a href="slides/21ElementarySorts.pdf">Elemenary sorts (*)</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf.pdf">Quicksort</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf">Quicksort</a>
     Oct 31:
       topics:
         lab: Computational Complexity
@@ -20,8 +20,8 @@
   dates:
     Nov 05:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>      
-        B: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
+        A: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf">Quicksort (cont'd)</a>      
+        B: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>      
     Nov 07:
       topics:
         lab: Sorting
@@ -30,7 +30,7 @@
     Nov 12:
       topics:
         A: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
     Nov 14:
       topics:
         lab: Graded Assignment
@@ -39,7 +39,7 @@
     Nov 19:
       topics:
         A: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
-        B: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
+        B: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
     Nov 21:
       topics:
       topics:
@@ -48,7 +48,7 @@
   dates:
     Nov 26:
       topics:
-        A: TBA.
+        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
         B: Exam practice
     Nov 28:
       topics:
