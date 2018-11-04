@@ -12,7 +12,7 @@
     Oct 29:
       topics:
         A: <a href="slides/21ElementarySorts.pdf">Elemenary sorts (*)</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf">Quicksort</a>
+        B: <a href="slides/23Quicksort.pdf">Quicksort (*)</a>
     Oct 31:
       topics:
         lab: Computational Complexity
@@ -20,8 +20,8 @@
   dates:
     Nov 05:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf">Quicksort (cont'd)</a>      
-        B: <a href="http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf"> Binary heaps & heapsort</a>      
+        A: <a href="slides/23Quicksort.pdf">Quicksort (cont'd) (*)</a>      
+        B: <a href="slides/24PriorityQueues.pdf"> Binary heaps & heapsort (*)</a>      
     Nov 07:
       topics:
         lab: Sorting

@@ -11,6 +11,9 @@ title: Schedule & Material
 <li><a href="slides/21DemoInsertionSort.pdf">Animation for Insertion Sort</a> </li>
 <li><a href="slides/21DemoShellSort.pdf">Animation for Shell Sort</a> </li>
 <li><a href="slides/21DemoKnuthShuffle.pdf">Animation for Knuth Shuffle</a> </li>
+<li><a href="slides/23DemoPartitioning.pdf">Animation of Quicksort partitionings</a> </li>
+<li><a href="slides/24DemoBinaryHeap.pdf">Animation for Binary Heap</a> </li>
+<li><a href="slides/24DemoHeapsort.pdf">Animation for Heapsort</a> </li>
 </ul>
 
 ## Lecture schedule (tentative)
