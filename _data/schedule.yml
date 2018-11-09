@@ -29,8 +29,8 @@
   dates:
     Nov 12:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf">Undirected graphs</a>
+        A: <a href="slides/41UndirectedGraphs.pdf">Undirected graphs (*)</a>
+        B: <a href="slides/41UndirectedGraphs.pdf">Undirected graphs (cont'd) (*)</a>	
     Nov 14:
       topics:
         lab: Graded Assignment

@@ -14,6 +14,9 @@ title: Schedule & Material
 <li><a href="slides/23DemoPartitioning.pdf">Animation of Quicksort partitionings</a> </li>
 <li><a href="slides/24DemoBinaryHeap.pdf">Animation for Binary Heap</a> </li>
 <li><a href="slides/24DemoHeapsort.pdf">Animation for Heapsort</a> </li>
+<li><a href="slides/41DemoDepthFirstSearch.pdf">Animation for DFS in graphs</a></li>
+<li><a href="slides/41DemoBreadthFirstSearch.pdf">Animation for BFS in graphs</a></li>
+<li><a href="slides/41DemoConnectedComponents.pdf">Animation for graph connectedness</a></li>
 </ul>
 
 ## Lecture schedule (tentative)
