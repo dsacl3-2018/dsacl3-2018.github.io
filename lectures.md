@@ -21,7 +21,7 @@ title: Schedule & Material
 <li><a href="slides/42DemoDepthFirstSearch.pdf">Animation for DFS in directed graphs</a></li>
 <li><a href="slides/42DemoBreadthFirstSearch.pdf">Animation for BFS in directed graphs</a></li>
 <li><a href="slides/42DemoKosarajuSharir.pdf">Animation for Kosaraju-Sharir algorithm</a></li>
-<li><a href="slides/42DemoTopologicalSort.pdf">Animation for topological sort algorithm</a></li>
+<li><a href="slides/42DemoTopologicalSort.pdf">Animation for Topological sort algorithm</a></li>
 </ul>
 
 ## Lecture schedule (tentative)

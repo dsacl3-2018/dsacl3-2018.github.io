@@ -20,7 +20,7 @@
   dates:
     Nov 05:
       topics:
-        A: <a href="slides/23Quicksort.pdf">Quicksort (cont'd) (*)</a>      
+        A: Quicksort (cont'd) (*)
         B: <a href="slides/24PriorityQueues.pdf"> Binary heaps & heapsort (*)</a>      
     Nov 07:
       topics:
@@ -30,7 +30,7 @@
     Nov 12:
       topics:
         A: <a href="slides/41UndirectedGraphs.pdf">Undirected graphs (*)</a>
-        B: <a href="slides/41UndirectedGraphs.pdf">Undirected graphs (cont'd) (*)</a>	
+        B: Undirected graphs (cont'd) (*)
     Nov 14:
       topics:
         lab: Graded Assignment
@@ -39,7 +39,7 @@
     Nov 19:
       topics:
         A: <a href="slides/42DirectedGraphs.pdf">Directed graphs (*)</a>
-        B: <a href="slides/42DirectedGraphs.pdf">Directed graphs (cont'd) (*)</a>
+        B: Directed graphs (cont'd) (*)
     Nov 21:
       topics:
       topics:
