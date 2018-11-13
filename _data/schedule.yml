@@ -38,8 +38,8 @@
   dates:
     Nov 19:
       topics:
-        A: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
-        B: <a href="http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf">Directed graphs</a>
+        A: <a href="slides/42DirectedGraphs.pdf">Directed graphs (*)</a>
+        B: <a href="slides/42DirectedGraphs.pdf">Directed graphs (cont'd) (*)</a>
     Nov 21:
       topics:
       topics:
