@@ -42,7 +42,6 @@
         B: Directed graphs (cont'd) (*)
     Nov 21:
       topics:
-      topics:
         lab: Undirected graphs
 - week: "06"
   dates:
@@ -61,7 +60,7 @@
         B: Regular grammars and finite state automata
     Dec 05:
       topics:
-        lab: TBA
+        lab: Graded assignment
 - week: "08"
   dates:
     Dec 10:
