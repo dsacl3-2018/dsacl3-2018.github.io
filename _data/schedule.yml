@@ -60,12 +60,12 @@
         B: Regular grammars and finite state automata
     Dec 05:
       topics:
-        lab: Graded assignment
+        lab: Graded assignments
 - week: "08"
   dates:
     Dec 10:
       topics:
-        A: Back to Graphs: Minimum Spanning Tree, and Shortest Paths (Dijkstra)
+        A: Minimum Spanning Tree, and Shortest Paths (Dijkstra)
         B: Exam practice      
     Dec 12:
       topics:
