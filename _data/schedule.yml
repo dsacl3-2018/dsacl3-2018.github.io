@@ -48,8 +48,8 @@
   dates:
     Nov 26:
       topics:
-        A: <a href="http://www.sfs.uni-tuebingen.de/~ddekok/dsa3/lectures/stringdist.pdf">Distance measures</a>
-        B: Exam practice
+        A: Formal languages and automata 
+        B:  Formal languages and automata 
     Nov 28:
       topics:
         lab: Directed graphs
@@ -57,8 +57,8 @@
   dates:
     Dec 03:
       topics:
-        A: Formal languages and automata 
-        B:  Formal languages and automata 
+        A: Regular grammars and finite state automata
+        B: Regular grammars and finite state automata
     Dec 05:
       topics:
         lab: TBA
@@ -66,8 +66,8 @@
   dates:
     Dec 10:
       topics:
-        A: Regular grammars and finite state automata
-        B: Regular grammars and finite state automata
+        A: Back to Graphs: Minimum Spanning Tree, and Shortest Paths (Dijkstra)
+        B: Exam practice      
     Dec 12:
       topics:
         lab: TBA
