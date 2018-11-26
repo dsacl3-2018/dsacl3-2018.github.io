@@ -47,8 +47,10 @@
   dates:
     Nov 26:
       topics:
-        A: Formal languages and automata 
-        B:  Formal languages and automata 
+        A: Formal languages and automata
+            <a href="slides/formal-languages.pdf">(slides</a>,
+            <a href="slides/formal-languages-handout.pdf"> 8up)</a>
+        B: Formal languages and automata 
     Nov 28:
       topics:
         lab: Directed graphs
