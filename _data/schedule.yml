@@ -62,16 +62,16 @@
         B: Regular grammars and finite state automata
     Dec 05:
       topics:
-        lab: Graded assignments
+        lab: Introduction to Python
 - week: "08"
   dates:
     Dec 10:
       topics:
-        A: Directed Graphs (Minimum Spanning Tree, and Shortest Paths)
-        B: Exam practice      
+        A: Directed Graphs: Minimum Spanning Trees
+        B: Directed Graphs: Shortest Paths
     Dec 12:
       topics:
-        lab: TBA
+        lab: tba.
 - week: "09"
   dates:
     Dec 17:
