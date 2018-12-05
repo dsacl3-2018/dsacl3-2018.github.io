@@ -62,7 +62,7 @@
         B: Regular grammars and finite state automata
     Dec 05:
       topics:
-        lab: Introduction to Python
+        lab: Introduction to Python <a href="slides/python_intro.pdf">(slides)</a>
 - week: "08"
   dates:
     Dec 10:
