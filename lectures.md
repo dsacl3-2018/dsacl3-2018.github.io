@@ -22,6 +22,10 @@ title: Schedule & Material
 <li><a href="slides/42DemoBreadthFirstSearch.pdf">Animation for BFS in directed graphs</a></li>
 <li><a href="slides/42DemoKosarajuSharir.pdf">Animation for Kosaraju-Sharir algorithm</a></li>
 <li><a href="slides/42DemoTopologicalSort.pdf">Animation for Topological sort algorithm</a></li>
+
+<li><a href="slides/43DemoGreedy.pdf">Animation for Greedy Algorithm</a></li>
+<li><a href="slides/43DemoKruskal.pdf">Animation for Kruskal's Algorithm</a></li>
+<li><a href="slides/43DemoPrim.pdf">Animation for Prim's Algorithm</a></li>
 </ul>
 
 ## Lecture schedule (tentative)

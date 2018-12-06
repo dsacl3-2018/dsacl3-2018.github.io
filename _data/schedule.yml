@@ -67,7 +67,7 @@
   dates:
     Dec 10:
       topics:
-        A: Directed Graphs (Minimum Spanning Trees)
+        A: <a href="slides/43MinimumSpanningTrees.pdf">Minimum Spanning Trees</a>      
         B: Directed Graphs (Shortest Paths)
     Dec 12:
       topics:
