@@ -59,6 +59,8 @@
     Dec 03:
       topics:
         A: Regular grammars and finite state automata
+            <a href="slides/regular-fsa.pdf">(slides</a>,
+            <a href="slides/regular-fsa-handout.pdf"> 8up)</a>
         B: Regular grammars and finite state automata
     Dec 05:
       topics:
