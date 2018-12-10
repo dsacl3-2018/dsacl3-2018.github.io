@@ -26,6 +26,10 @@ title: Schedule & Material
 <li><a href="slides/43DemoGreedy.pdf">Animation for Greedy Algorithm</a></li>
 <li><a href="slides/43DemoKruskal.pdf">Animation for Kruskal's Algorithm</a></li>
 <li><a href="slides/43DemoPrim.pdf">Animation for Prim's Algorithm</a></li>
+
+<li><a href="slides/44DemoDijkstra.pdf">Animation for Dijkstra's Algorithm</a></li>
+<li><a href="slides/44DemoAcyclicSP.pdf">Animation for Acyclic Shortest Paths</a></li>
+<li><a href="slides/44DemoBellmanFord.pdf">Animation for 44 Bellman-Ford Algorithm</a></li>
 </ul>
 
 ## Lecture schedule (tentative)
