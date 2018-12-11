@@ -73,7 +73,7 @@
         B: <a href="slides/44ShortestPaths.pdf">Shortest Paths</a>      
     Dec 12:
       topics:
-        lab: tba.
+        lab: Graded Assignment
 - week: "09"
   dates:
     Dec 17:
@@ -82,7 +82,7 @@
         B: Finite-state transducers and computational morphology 
     Dec 19:
       topics:
-        lab: TBA
+        lab: tba plus take-home Exam Practise.
 - week: "Sem. break"
   dates:
     " ": ""
@@ -127,18 +127,9 @@
   dates:
     Feb 04:
       topics:
-        A: Exam review / practice
-        B: Exam review / practice
-    Feb 06:
-      topics:
-        lab: TBA
-- week: "15"
-  dates:
-    Feb 11:
-      topics:
-        A: Exam
+        A: Exam 
         B: ""
-    Feb 13:
+    Feb 06:
       topics:
         lab: TBA
 - week: ""
