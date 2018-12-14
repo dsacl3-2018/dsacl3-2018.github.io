@@ -79,10 +79,10 @@
     Dec 17:
       topics:
         A: Finite-state transducers
-        B: Finite-state transducers and computational morphology 
+        B: Finite-state applications in CL
     Dec 19:
       topics:
-        lab: tba plus take-home Exam Practise.
+        lab: Finite-state automata<br> plus take-home exam practise.
 - week: "Sem. break"
   dates:
     " ": ""
@@ -91,8 +91,8 @@
   dates:
     Jan 7:
       topics:
-        A: Context-free languages and constituency parsing
-        B: Context-free languages and constituency parsing
+        A: Dependency grammars and treebanks
+        B: Dependency grammars and treebanks
     Jan 9:
       topics:
         lab: TBA
@@ -100,8 +100,8 @@
   dates:
     Jan 14:
       topics:
-        A: Dependency grammars and treebanks
-        B: Dependency grammars and treebanks
+        A: A gentle introduction to classification
+        B: Transition-based dependency parsing
     Jan 16:
       topics:
         lab: TBA
@@ -118,8 +118,8 @@
   dates:
     Jan 28:
       topics:
-        A: A gentle introduction to classification
-        B: Transition-based dependency parsing
+        A: Context-free languages and constituency parsing
+        B: Context-free languages and constituency parsing
     Jan 30:
       topics:
         lab: TBA
