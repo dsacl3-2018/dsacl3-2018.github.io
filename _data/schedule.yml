@@ -79,7 +79,11 @@
     Dec 17:
       topics:
         A: Finite-state transducers
+            <a href="slides/fst.pdf">(slides</a>,
+            <a href="slides/fst-handout.pdf"> 8up)</a>
         B: Finite-state applications in CL
+            <a href="slides/finite-state-app.pdf">(slides</a>,
+            <a href="slides/finite-state-app-handout.pdf"> 8up)</a>
     Dec 19:
       topics:
         lab: Finite-state automata<br> plus take-home exam practise.
