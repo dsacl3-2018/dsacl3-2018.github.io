@@ -82,11 +82,12 @@
             <a href="slides/fst.pdf">(slides</a>,
             <a href="slides/fst-handout.pdf"> 8up)</a>
         B: Finite-state applications in CL
-            <a href="slides/finite-state-app.pdf">(slides</a>,
-            <a href="slides/finite-state-app-handout.pdf"> 8up)</a>
+            (<a href="slides/finite-state-app.pdf">slides</a>,
+            <a href="slides/finite-state-app-handout.pdf"> 8up</a>,
+            <a href="https://dsacl3-2018.github.io/xfst-demo/">xfst-demo</a>)
     Dec 19:
       topics:
-        lab: Finite-state automata<br> plus take-home exam practise.
+          lab: <a href="https://dsacl3-2018.github.io/a9/">Finite-state automata</a><br> plus take-home exam practise.
 - week: "Sem. break"
   dates:
     " ": ""
