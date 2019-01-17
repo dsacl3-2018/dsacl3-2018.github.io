@@ -96,26 +96,30 @@
   dates:
     Jan 7:
       topics:
-        A: Dependency grammars and treebanks
-        B: Dependency grammars and treebanks
+        A: Dependency grammars
+            (<a href="slides/dependency-grammar.pdf">slides</a>,
+            <a href="slides/dependency-grammar-handout.pdf"> 8up</a>)
+        B: Universal Dependencies
     Jan 9:
       topics:
-        lab: TBA
+        lab: Discussion of graded assignment \& practise exam
 - week: "11"
   dates:
     Jan 14:
       topics:
-        A: A gentle introduction to classification
-        B: Transition-based dependency parsing
+        A: Dependency parsing
+            (<a href="slides/dependency-parsing.pdf">slides</a>,
+            <a href="slides/dependency-parsing-handout.pdf"> 8up</a>)
+        B: A hands-on introduction to classification
     Jan 16:
       topics:
-        lab: TBA
+        lab: Discussion of Finite-state automata exercises
 - week: "12"
   dates:
     Jan 21:
       topics:
-        A: Dependency parsing
-        B: Dependency parsing
+        A: Dependency parsing (cont)
+        B: Context-free languages and constituency parsing
     Jan 23:
       topics:
         lab: TBA
@@ -124,7 +128,7 @@
     Jan 28:
       topics:
         A: Context-free languages and constituency parsing
-        B: Context-free languages and constituency parsing
+        B: Summary / discussion
     Jan 30:
       topics:
         lab: TBA

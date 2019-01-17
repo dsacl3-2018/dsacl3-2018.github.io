@@ -5,7 +5,7 @@ title: Home
 
 ## Introduction
 
-This the web page of the course
+This is the web page of the course
 *Data Structures and Algorithms for Computational Lingustics III*
 taught at the
 [Department of Computational Linguistics](http://www.sfs.uni-tuebingen.de/ascl.html),

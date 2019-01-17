@@ -3,36 +3,7 @@ layout: page
 title: Schedule & Material
 ---
 
-## Extra Reading and Lecture Material
-
-<ul>
-<li><a href="material/CavnarTrenkle.pdf">Language Guessing (Cavnar and Trenkle, 1994)</a> </li>
-<li><a href="slides/21DemoSelectionSort.pdf">Animation for Selection Sort</a> </li>
-<li><a href="slides/21DemoInsertionSort.pdf">Animation for Insertion Sort</a> </li>
-<li><a href="slides/21DemoShellSort.pdf">Animation for Shell Sort</a> </li>
-<li><a href="slides/21DemoKnuthShuffle.pdf">Animation for Knuth Shuffle</a> </li>
-<li><a href="slides/23DemoPartitioning.pdf">Animation of Quicksort partitionings</a> </li>
-<li><a href="slides/24DemoBinaryHeap.pdf">Animation for Binary Heap</a> </li>
-<li><a href="slides/24DemoHeapsort.pdf">Animation for Heapsort</a> </li>
-<li><a href="slides/41DemoDepthFirstSearch.pdf">Animation for DFS in graphs</a></li>
-<li><a href="slides/41DemoBreadthFirstSearch.pdf">Animation for BFS in graphs</a></li>
-<li><a href="slides/41DemoConnectedComponents.pdf">Animation for graph connectedness</a></li>
-
-<li><a href="slides/42DemoDepthFirstSearch.pdf">Animation for DFS in directed graphs</a></li>
-<li><a href="slides/42DemoBreadthFirstSearch.pdf">Animation for BFS in directed graphs</a></li>
-<li><a href="slides/42DemoKosarajuSharir.pdf">Animation for Kosaraju-Sharir algorithm</a></li>
-<li><a href="slides/42DemoTopologicalSort.pdf">Animation for Topological sort algorithm</a></li>
-
-<li><a href="slides/43DemoGreedy.pdf">Animation for Greedy Algorithm</a></li>
-<li><a href="slides/43DemoKruskal.pdf">Animation for Kruskal's Algorithm</a></li>
-<li><a href="slides/43DemoPrim.pdf">Animation for Prim's Algorithm</a></li>
-
-<li><a href="slides/44DemoDijkstra.pdf">Animation for Dijkstra's Algorithm</a></li>
-<li><a href="slides/44DemoAcyclicSP.pdf">Animation for Acyclic Shortest Paths</a></li>
-<li><a href="slides/44DemoBellmanFord.pdf">Animation for 44 Bellman-Ford Algorithm</a></li>
-</ul>
-
-## Lecture schedule (tentative)
+## Lecture schedule
 
 The course plan is subject to change.
 The slides of future classes are linked
@@ -76,3 +47,34 @@ and 'B' indicates the evening sessions starting at 18:00.
 {% endfor %}
   </tbody>
 </table>
+
+
+## Extra Reading and Lecture Material
+
+<ul>
+<li><a href="material/CavnarTrenkle.pdf">Language Guessing (Cavnar and Trenkle, 1994)</a> </li>
+<li><a href="slides/21DemoSelectionSort.pdf">Animation for Selection Sort</a> </li>
+<li><a href="slides/21DemoInsertionSort.pdf">Animation for Insertion Sort</a> </li>
+<li><a href="slides/21DemoShellSort.pdf">Animation for Shell Sort</a> </li>
+<li><a href="slides/21DemoKnuthShuffle.pdf">Animation for Knuth Shuffle</a> </li>
+<li><a href="slides/23DemoPartitioning.pdf">Animation of Quicksort partitionings</a> </li>
+<li><a href="slides/24DemoBinaryHeap.pdf">Animation for Binary Heap</a> </li>
+<li><a href="slides/24DemoHeapsort.pdf">Animation for Heapsort</a> </li>
+<li><a href="slides/41DemoDepthFirstSearch.pdf">Animation for DFS in graphs</a></li>
+<li><a href="slides/41DemoBreadthFirstSearch.pdf">Animation for BFS in graphs</a></li>
+<li><a href="slides/41DemoConnectedComponents.pdf">Animation for graph connectedness</a></li>
+
+<li><a href="slides/42DemoDepthFirstSearch.pdf">Animation for DFS in directed graphs</a></li>
+<li><a href="slides/42DemoBreadthFirstSearch.pdf">Animation for BFS in directed graphs</a></li>
+<li><a href="slides/42DemoKosarajuSharir.pdf">Animation for Kosaraju-Sharir algorithm</a></li>
+<li><a href="slides/42DemoTopologicalSort.pdf">Animation for Topological sort algorithm</a></li>
+
+<li><a href="slides/43DemoGreedy.pdf">Animation for Greedy Algorithm</a></li>
+<li><a href="slides/43DemoKruskal.pdf">Animation for Kruskal's Algorithm</a></li>
+<li><a href="slides/43DemoPrim.pdf">Animation for Prim's Algorithm</a></li>
+
+<li><a href="slides/44DemoDijkstra.pdf">Animation for Dijkstra's Algorithm</a></li>
+<li><a href="slides/44DemoAcyclicSP.pdf">Animation for Acyclic Shortest Paths</a></li>
+<li><a href="slides/44DemoBellmanFord.pdf">Animation for 44 Bellman-Ford Algorithm</a></li>
+</ul>
+
