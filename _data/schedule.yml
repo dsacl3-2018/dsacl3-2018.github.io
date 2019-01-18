@@ -120,6 +120,8 @@
       topics:
         A: Dependency parsing (cont)
         B: Context-free languages and constituency parsing
+            (<a href="slides/constituency-parsing.pdf">slides</a>,
+            <a href="slides/constituency-parsing-handout.pdf"> 8up</a>)
     Jan 23:
       topics:
         lab: TBA
