@@ -7,14 +7,14 @@ title: Policy
 
 Your grade will be determined based on
 4 graded programming assignments (60%)
-and a written exam (40%)at the end of the course.
+and a written exam (40%) at the end of the course.
 This
 [grade scale](http://www.sfs.uni-tuebingen.de/~vhenrich/ss14/java/GradeScale.html)
 will be used to convert the weighted scores to a final letter grade.
 
 Besides the graded assignments,
-the course includes weakly assignments.
-Although not all assignments are grades,
+the course includes weekly assignments.
+Although not all assignments are graded,
 they are a core part of the class,
 and they should not be considered optional.
 
@@ -65,7 +65,7 @@ before you start working on your first assignment.
 Assignments are only accepted through the GitHub repositories.
 No other form of submissions (e.g., email) are accepted.
 
-You source files should start with the following header
+You source files should start with the following header (Java)
 
 ~~~{.java}
 /**
@@ -78,12 +78,17 @@ You source files should start with the following header
  */
 ~~~
 
+The same information should be provided as the file/module
+[docstring](https://www.python.org/dev/peps/pep-0257/)
+in Python assignments, and as comments at the beginning of the file
+for other file types that allow comments.
+
 ## Exams
 
 The following basic rules apply for the exams:
 
-* If you are too ill to take an exam, you must inform me by e-mail, **at
-  least 60 minutes** before the start of the exam. You also need to
+* If you are too ill to take an exam, you must inform instructors by e-mail, **at
+  least 60 minutes** before the beginning of the exam. You also need to
   present an attest from your doctor before enrolling into the
   re-examination.
 * A re-examination of the final exam is possible, if and only if you
