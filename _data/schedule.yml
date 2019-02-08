@@ -118,29 +118,30 @@
   dates:
     Jan 21:
       topics:
-        A: Dependency parsing (cont)
+        A: Dependency parsing (contd.)
         B: Context-free languages and constituency parsing
             (<a href="slides/constituency-parsing.pdf">slides</a>,
             <a href="slides/constituency-parsing-handout.pdf"> 8up</a>)
     Jan 23:
       topics:
-        lab: TBA
+        lab: <a href="https://dsacl3-2018.github.io/a11/">Finite-state morphology and finite-state transducers</a>
 - week: "13"
   dates:
     Jan 28:
       topics:
-        A: Context-free languages and constituency parsing
+        A: Context-free languages and constituency parsing (contd.)
         B: Summary / discussion
     Jan 30:
       topics:
-        lab: TBA
+        lab: <a href="https://dsacl3-2018.github.io/a11/">Assignment 11</a> (continued)
 - week: "14"
   dates:
     Feb 04:
       topics:
         A: Exam 
-        B: ""
+        B: Exam solutions/discussion
     Feb 06:
       topics:
-        lab: TBA
+          lab: Discussion of <a href="https://dsacl3-2018.github.io/a11/">Assignment 11</a>
+                and introduction of <a href="https://dsacl3-2018.github.io/a12/">Assignment 12</a>
 - week: ""
